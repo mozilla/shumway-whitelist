@@ -52,3 +52,10 @@ static.adzerk.net/Advertisers/
 static.doubleclick.net/
 tpc.googlesyndication.com/pagead/imgad
 ubmcmm.baidustatic.com/media/v1/
+tb2.bdstatic.com*
+tieba.baidu.com*
+play.baidu.com*
+https://ss1.bdstatic.com*
+https://assets.alicdn.com*
+https://*.alipayobjects.com*
+libweb.zju.edu.cn*
