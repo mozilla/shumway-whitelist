@@ -1,4 +1,4 @@
-# Shumway whitelist
+# Shumway whitelist *(inactive)*
 
 Firefox uses the Shumway whitelist to determine which Flash content (swf files) should be played with [Mozilla's Shumway extension](http://www.areweflashyet.com/) instead of Adobe's Flash Player plugin.
 
